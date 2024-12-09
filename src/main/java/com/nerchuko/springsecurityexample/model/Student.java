@@ -1,4 +1,4 @@
-package com.nerchuko.springsecurityexample;
+package com.nerchuko.springsecurityexample.model;
 
 public class Student {
 
